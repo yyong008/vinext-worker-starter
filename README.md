@@ -1,4 +1,8 @@
-# vinext-worker-start
+# vinext-worker-starter
+
+>tip: try vinext with worker
+
+## install and run
 
 ```sh
 pnpm i
